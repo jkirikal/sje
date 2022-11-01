@@ -1,0 +1,17 @@
+* {
+
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
+
+.header {
+    display:flex;
+    justify-content:center;
+    color:green;
+}
+.intro *{
+    display:flex;
+    justify-content:center;
+}
+#link {
+    font-family: Impact, fantasy, cursive;
+}
